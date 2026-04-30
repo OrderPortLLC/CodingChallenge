@@ -12,6 +12,6 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.8.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\MailingListChallenge\MailingListChallenge.csproj" />
+    <ProjectReference Include="../../src/MailingListChallenge/MailingListChallenge.csproj" />
   </ItemGroup>
 </Project>

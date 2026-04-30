@@ -1,4 +1,5 @@
 using MailingListChallenge;
+using Xunit;
 
 namespace MailingListChallenge.Tests;
 
