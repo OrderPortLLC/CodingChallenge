@@ -1,0 +1,8 @@
+[
+  { "clientId": 888, "memberId": 1001, "email": "alice@test.com", "lastLoginDate": "April 29 3:25:09.000 PM PT" },
+  { "clientId": 888, "memberId": 1002, "email": "bob@test.com", "lastLoginDate": "April 29 4:01:00.000 PM PT" },
+  { "clientId": 888, "memberId": 1003, "email": "carol@test.com", "lastLoginDate": "April 28 11:20:30.000 AM PT" },
+  { "clientId": 777, "memberId": 1004, "email": "wrong-client@test.com", "lastLoginDate": "April 29 1:15:00.000 PM PT" },
+  { "clientId": 888, "memberId": 1005, "email": "red-wine@test.com", "lastLoginDate": "April 29 2:00:00.000 PM PT" },
+  { "clientId": 888, "memberId": 1006, "email": "no-discount@test.com", "lastLoginDate": "April 29 2:05:00.000 PM PT" }
+]

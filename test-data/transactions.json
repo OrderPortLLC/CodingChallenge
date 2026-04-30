@@ -1,0 +1,58 @@
+[
+  {
+    "transactionId": "txn-001",
+    "memberId": 1001,
+    "productName": "Estate Chardonnay",
+    "productCategory": "White Still Wine",
+    "totalBasketValue": 42.50,
+    "totalDiscountDollarAmount": 2.00
+  },
+  {
+    "transactionId": "txn-002",
+    "memberId": 1001,
+    "productName": "Reserve Chardonnay",
+    "productCategory": "White Still Wine",
+    "totalBasketValue": 55.00,
+    "totalDiscountDollarAmount": 3.00
+  },
+  {
+    "transactionId": "txn-003",
+    "memberId": 1002,
+    "productName": "Sauvignon Blanc Promo",
+    "productCategory": "White Still Wine",
+    "totalBasketValue": 0.00,
+    "totalDiscountDollarAmount": 2.50
+  },
+  {
+    "transactionId": "txn-004",
+    "memberId": 1003,
+    "productName": "Pinot Gris",
+    "productCategory": "White Still Wine",
+    "totalBasketValue": 30.00,
+    "totalDiscountDollarAmount": 1.00
+  },
+  {
+    "transactionId": "txn-005",
+    "memberId": 1004,
+    "productName": "Chenin Blanc",
+    "productCategory": "White Still Wine",
+    "totalBasketValue": 25.00,
+    "totalDiscountDollarAmount": 5.00
+  },
+  {
+    "transactionId": "txn-006",
+    "memberId": 1005,
+    "productName": "Cabernet Sauvignon",
+    "productCategory": "Red Still Wine",
+    "totalBasketValue": 80.00,
+    "totalDiscountDollarAmount": 10.00
+  },
+  {
+    "transactionId": "txn-007",
+    "memberId": 1006,
+    "productName": "Riesling",
+    "productCategory": "White Still Wine",
+    "totalBasketValue": 20.00,
+    "totalDiscountDollarAmount": 0.50
+  }
+]

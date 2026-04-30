@@ -1,0 +1,20 @@
+[
+  {
+    "clientId": 888,
+    "productCategory": "White Still Wine",
+    "minTotalBasketValue": null,
+    "minDiscountAmount": 1.00
+  },
+  {
+    "clientId": 888,
+    "productCategory": "Red Still Wine",
+    "minTotalBasketValue": 100.00,
+    "minDiscountAmount": 10.00
+  },
+  {
+    "clientId": 777,
+    "productCategory": "White Still Wine",
+    "minTotalBasketValue": null,
+    "minDiscountAmount": 1.00
+  }
+]
